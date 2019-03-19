@@ -4,3 +4,4 @@ Python Script to Convert .mat structured dataset of MPII Human Pose Annotations 
 Test images are neglected and will upload another csv file for test images soon 
 
 # Please Star this repository before downloading or forking
+Dataset csv file only contain training images 
